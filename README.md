@@ -1,6 +1,7 @@
 # CSC512_submission_repo
 This is the submission repository for NCSU CSC 512 course project.
 
+**The source code for llvm pass is in /seminalInputFeatureDetection/Main.cpp**
 
 
 In main branch, we have integrated task1 and task2. 
