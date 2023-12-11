@@ -1,5 +1,5 @@
-# CSC512_dev_repo
-This is the development repository for NCSU CSC 512 course project
+# CSC512_submission_repo
+This is the submission repository for NCSU CSC 512 course project
 
 These are instructions about how to build up this program:
 
